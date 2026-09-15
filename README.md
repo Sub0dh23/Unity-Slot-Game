@@ -1,4 +1,4 @@
-# 🎰 Underpin Services - Production-Grade 3x3 Video Slot Game
+# Production-Grade 3x3 Video Slot Game
 
 [![Unity Version](https://img.shields.io/badge/Unity-6000.3.13f1%20(Unity%206)-blue.svg?logo=unity)](https://unity.com/)
 [![Render Pipeline](https://img.shields.io/badge/Render%20Pipeline-URP%202D-green.svg)](https://unity.com/srp/universal-render-pipeline)
